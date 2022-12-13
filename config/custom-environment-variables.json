@@ -1,0 +1,8 @@
+
+{
+"mongodb": {
+    "URL":"E_commerce App_url"
+},
+"jwtPrivateKey": "E_commerce App_jwtPrivateKey"
+}
+
